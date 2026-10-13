@@ -1,0 +1,4 @@
+[2026-05-06 15:20:56] EMAIL SENT TO: Fionaabikunda3@gmail.com | SUBJECT: New User Registration: M-Money | MESSAGE: A new user, Fiona Abikunda (fionaabikunda3@gmail.com), has just registered on M-Money.
+[2026-05-06 15:22:09] EMAIL SENT TO: Fionaabikunda3@gmail.com | SUBJECT: New Airtime Conversion: M-Money | MESSAGE: User Fiona Abikunda (fionaabikunda3@gmail.com) has successfully converted 1000 RWF into 10000 MBs.
+[2026-05-06 15:23:20] EMAIL SENT TO: Fionaabikunda3@gmail.com | SUBJECT: New Airtime Conversion: M-Money | MESSAGE: User Fiona Abikunda (fionaabikunda3@gmail.com) has successfully converted 500 RWF into 5000 MBs.
+[2026-05-08 12:17:16] EMAIL SENT TO: Fionaabikunda3@gmail.com | SUBJECT: New User Registration: M-Money | MESSAGE: A new user, edwin (irivuzumwamigad2@gmail.com), has just registered on M-Money.
